@@ -9,7 +9,7 @@ Creating a Conda environment to manage the required dependencies is recommended 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Sentiment-Prediction-on-Movie-Reviews.git
+   git clone https://github.com/omm-prakash/Sentiment-Prediction-on-Movie-Reviews.git
    cd Sentiment-Prediction-on-Movie-Reviews
    conda env create mlp -f environment.yml
    ```
