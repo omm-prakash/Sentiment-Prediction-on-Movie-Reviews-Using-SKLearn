@@ -1,5 +1,5 @@
-# Sentiment-Prediction-on-Movie-Reviews
-In the dataset, each record represents a movie review pair with movie title, description, genres, duration, director, actors, users' ratings, review text, reviewer name, etc. The task is to build an ML model to predict the sentiment of the review text.
+# Sentiment-Prediction-on-Movie-Reviews-Using-SKLearn
+In the dataset, each record represents a movie review pair with a movie title, description, genres, duration, director, actors, users' ratings, review text, reviewer name, etc. The task is to build an ML model to predict the sentiment of the review text.
 
 In this project, I aim to predict movie reviews' sentiments (positive or negative) using various machine learning algorithms. We provide a set of scripts and Jupyter notebooks to preprocess the data, train models, and evaluate their performance.
 
@@ -9,8 +9,8 @@ Creating a Conda environment to manage the required dependencies is recommended 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/omm-prakash/Sentiment-Prediction-on-Movie-Reviews.git
-   cd Sentiment-Prediction-on-Movie-Reviews
+   git clone https://github.com/omm-prakash/Sentiment-Prediction-on-Movie-Reviews-Using-SKLearn.git
+   cd Sentiment-Prediction-on-Movie-Reviews-Using-SKLearn
    conda env create mlp -f environment.yml
    ```
 2. **Activate the Conda environment**
