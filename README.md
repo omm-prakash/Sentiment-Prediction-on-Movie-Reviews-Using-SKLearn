@@ -53,7 +53,7 @@ The problem statement was hosted by the IITM team on Kaggle. The link for the co
 | 2     | KNN                 | 78.32            | 76.08                  |                          | 80.71                 |
 | 3     | SGD Classifier      | 87.71            | 88.38                  | 85.046                   | 81.209           |
 
-The score I have in the tables are `f1-score` of validation data, i.e., a small portion from the training data.
+The score I have in the tables the `f1-score` of validation data, i.e., a small portion from the training data.
 
 ## Conclusion
 In conclusion, my journey through Sentiment Prediction on Movie Reviews has been a compelling exploration of the intricate landscape of machine learning.
@@ -61,3 +61,5 @@ In conclusion, my journey through Sentiment Prediction on Movie Reviews has been
 Starting with Data Cleaning, I meticulously sifted through the dataset, ensuring the foundation of our analysis was robust. Feature Engineering followed suit, where I unearthed valuable insights and transformed raw text into meaningful features that illuminated the sentiment-laden context. I dedicated efforts to Data Preprocessing to foster uniformity and readiness, equipping the data for the subsequent Model Training phase. I tuned and fine-tuned various algorithms through rigorous experimentation, seeking the best performers. The culmination of these endeavors led me to discover a model that displayed remarkable prowess in sentiment prediction. Reviewing my Models, I witnessed the algorithms evolve and adapt to the sentiment nuances within the movie reviews.
 
 In the vast sea of sentiment, my model emerges as a steadfast guide, deciphering the sentiments that shape our cinematic experiences. With a resounding F1-score of **0.88458**, I have harnessed the potential of machine learning to contribute to a deeper understanding of human expression in the realm of movie reviews.
+
+Future scope would be to use non-linear neural network models on the data. I have only applied linear models to get the highest possible score for the data. Deep learning models from NLP could significantly improve scores. 
